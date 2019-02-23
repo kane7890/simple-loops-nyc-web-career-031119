@@ -15,6 +15,7 @@ def loop_iterator(number_of_times)
     puts phrase
     if (count >= number_of_times)
       break;
+    end
     count+=1
   end
   
